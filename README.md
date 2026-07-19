@@ -139,7 +139,7 @@ The dataset contains information related to:
 
 ### Main Dashboard
 
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot]([dashboard.png](https://github.com/K-Shivakumar07/Blinkit-Store-Data-Analysis/blob/5694a944db485cee9628b43856e189d1a28670f7/Screenshot%202026-05-15%20210039.png))
 
 > Replace `dashboard.png` with your uploaded dashboard image.
 
